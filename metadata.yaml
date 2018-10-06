@@ -22,6 +22,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Theistic Conception of the World
 
   An Essay in Opposition to Certain Tendencies of Modern Thought'
